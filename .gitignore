@@ -173,4 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-data/pollution_us_2000_2016.csv
+pollution_us_2000_2016.csv
+cleaned_pollution_data.csv
